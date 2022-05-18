@@ -1,5 +1,5 @@
 ---
-title: "Exploring Ixodes (tick) Records By Pointing and Clicking"
+title: "Publishing your Images and Models"
 teaching: 15
 exercises: 15
 questions:

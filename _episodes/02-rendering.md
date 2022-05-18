@@ -1,5 +1,5 @@
 ---
-title: "Working with the Whole Dataset"
+title: "Rendering a Model"
 teaching: 20
 exercises: 10
 questions:

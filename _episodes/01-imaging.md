@@ -1,5 +1,5 @@
 ---
-title: "Getting Interaction Data"
+title: "Imaging Specimens"
 teaching: 5
 exercises: 5
 questions:

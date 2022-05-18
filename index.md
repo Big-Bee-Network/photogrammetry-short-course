@@ -91,7 +91,7 @@ INTRODUCTION
 Edit the general explanatory paragraph below if you want to change
 the pitch.
 {% endcomment %}
-
+<img src="https://www.dictionary.com/e/wp-content/uploads/2018/04/under-construction-300x300.jpg">
 Join Macroscopic Solutions and Katja Seltmann for a short course on creating 3D photogrammatic images of bees. This course includes weekly lessons, in person discussion taking students from specimen selection to final models.
 
 ## Acknowledgements
