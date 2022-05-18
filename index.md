@@ -3,7 +3,7 @@ layout: workshop      # DON'T CHANGE THIS.
 # More detailed instructions (including how to fill these variables for an
 # online workshop) are available at
 # https://carpentries.github.io/workshop-template/customization/index.html
-venue: "Terrestrial Parasite Tracker / Global Biotic Interactions"        # brief name of the institution that hosts the workshop without address (e.g., "Euphoric State University")
+venue: "Big Bee Online hosted by UC Santa Barbara and Macroscopic Solutions"        # brief name of the institution that hosts the workshop without address (e.g., "Euphoric State University")
 address: "online"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
 country: "FIXME"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes) for the institution that hosts the workshop
 language: "FIXME"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for the
@@ -11,13 +11,13 @@ latitude: "45"        # decimal latitude of workshop venue (use https://www.latl
 longitude: "-1"       # decimal longitude of the workshop venue (use https://www.latlong.net)
 humandate: "28 April 2021"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "11am - 1p Pacific"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
-startdate: 2021-04-28      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
-enddate: 2021-04-28        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Katja Seltmann", "Jorrit Poelen"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+startdate: 2022-09-01      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
+enddate: 2022-09-28        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
+instructor: ["Katja Seltmann", "Mark Smith"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: [ "you!" ]
 
 # ["helper one", "helper two"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
-email: ["seltmann@ccber.ucsb.edu","jhpoelen@jhpoelen.nl"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
+email: ["seltmann@ucsb.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes:  # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
@@ -101,13 +101,13 @@ This workshop is open to anyone interested in biotic or species interaction data
 The proposed outcome of this workshop is a reusable Carpentries lesson and improved documentation on methods to integrate and access biotic interaction data. We will work together through a series of exploratory data exercises. No programming experience is required, and you will use your own device to download data and create Google Sheets. Everyone will contribute during this workshop. Bring snacks! :)
 
 ## Acknowledgements
-A special thanks to the thousands of (citizen) scientists and their institutions for openly sharing their [datasets](https://globalbioticinteractions.org/sources). Also, thanks for thousands of software engineers for providing high quality open source software on which GloBI is built. 
-
-This workshop is supported by the <img src="fig/parasite_tracker_logo.png" class="inline-image"> [Terrestrial Parasite Tracker](https://parasitetracker.org) project through the <img src="fig/nsf_logo.png" class="inline-image"> [National Science Foundation](https://nsf.gov) award "Collaborative Research: Digitization TCN: Digitizing collections to trace parasite-host associations and predict the spread of vector-borne disease," Award numbers [DBI:1901932](https://nsf.gov/awardsearch/showAward?AWD_ID=1901932&HistoricalAwards=false) and [DBI:1901926](https://nsf.gov/awardsearch/showAward?AWD_ID=1901926&HistoricalAwards=false) . 
-
-Finally, a big thanks to Erica Krimmel of <img src="fig/idigbio_logo.png" class="inline-image"> [iDigBio](https://www.idigbio.org) for helping to organize and host this workshop, the [Carpentries](https://carpentries.org) for providing excellent workshop/lesson templates, and to all the <img src="fig/globi_logo.png" class="inline-image">[GloBI partners](https://globalbioticinteractions.org/about#partners) for their support.
-
-<a href="https://parasitetracker.org"><img src="fig/parasite_tracker_logo.png" class="inline-image" style="height: 5em;"></a> <a href="https://nsf.gov"><img src="fig/nsf_logo.png" class="inline-image" style="height: 6em;"></a> <a href="https://www.idigbio.org/"><img src="fig/idigbio_logo.png" class="inline-image" style="height: 4em;"></a> <a href="https://globalbioticinteractions.org"><img src="fig/globi_logo.png" class="inline-image" style="height: 5em;"></a>
+This project is supported by the National Science Foundation.
+<img src="fig/nsf_logo.png" alt="" style="float:right;width:100px;margin:6px;"><img src="images/NSF_4-Color_bitmap_Logo-small.png" alt="" style="float:right;width:100px;margin:6px;">Award numbers: <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2102006">2102006</a>, <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2101929">2101929</a>, <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2101908">2101908</a>, <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2101876">2101876</a>, <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2101875">2101875</a>, <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2101851">2101851</a>, <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2101345">2101345</a>, <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2101913">2101913</a>, <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2101891">2101891</a> and <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2101850">2101850</a>.
+<br /><br /><br />
+<img src="fig/UC_Santa_Barbara_Wordmark_Navy_RGB.png" alt="" style="float:right;width:250px;margin:6px;">
+<img src="fig/Companyweblogosmall-blue.png" alt="" style="float:right;width:250px;margin:6px;">
+</p>
+</header>
 
 
 ## Disclaimer
