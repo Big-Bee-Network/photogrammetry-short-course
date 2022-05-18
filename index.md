@@ -3,13 +3,13 @@ layout: workshop      # DON'T CHANGE THIS.
 # More detailed instructions (including how to fill these variables for an
 # online workshop) are available at
 # https://carpentries.github.io/workshop-template/customization/index.html
-venue: "Big Bee Online hosted by UC Santa Barbara and Macroscopic Solutions"        # brief name of the institution that hosts the workshop without address (e.g., "Euphoric State University")
+venue: "Big Bee Photogrammetry Short Course hosted by UC Santa Barbara and Macroscopic Solutions"        # brief name of the institution that hosts the workshop without address (e.g., "Euphoric State University")
 address: "online"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
 country: "FIXME"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes) for the institution that hosts the workshop
 language: "FIXME"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for the
 latitude: "45"        # decimal latitude of workshop venue (use https://www.latlong.net/)
 longitude: "-1"       # decimal longitude of the workshop venue (use https://www.latlong.net)
-humandate: "28 April 2021"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humandate: "01 September 2022 - 30 September 2022"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "11am - 1p Pacific"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2022-09-01      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2022-09-28        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
@@ -92,13 +92,7 @@ Edit the general explanatory paragraph below if you want to change
 the pitch.
 {% endcomment %}
 
-Join Jorrit Poelen and Katja Seltmann for "A Practical Exploration of Biotic Interaction Data Management and Information Retrieval through Terrestrial <a href="https://parasitetracker.org/">Parasite Tracker (TPT)</a> and <a href="https://globalbioticinteractions.org">Global Biotic Interactions (GloBI)</a>." This workshop is facilitated by <a href="https://idigbio.org">Integrated Digitized Biocollections (iDigBio)</a>. For more information see <a href="https://www.idigbio.org/content/practical-exploration-biotic-interaction-data-management-and-information-retrieval-through">iDigBio's workshop wiki</a>.
-
-During this two-hour long, participatory workshop collection managers, researchers, or data providers will use GloBI for data management and information retrieval. Our group exploration into the data will cover the data origins and data integration process and data products.
-
-This workshop is open to anyone interested in biotic or species interaction data even if you are presently not using GloBI. We will highlight data from the Terrestrial Parasite Tracker project, but the methods are available for anyone interested in biotic interactions (see more at <a href="https://www.globalbioticinteractions.org/sources">https://www.globalbioticinteractions.org/sources</a>).
-
-The proposed outcome of this workshop is a reusable Carpentries lesson and improved documentation on methods to integrate and access biotic interaction data. We will work together through a series of exploratory data exercises. No programming experience is required, and you will use your own device to download data and create Google Sheets. Everyone will contribute during this workshop. Bring snacks! :)
+Join Macroscopic Solutions and Katja Seltmann for a short course on creating 3D photogrammatic images of bees. This course includes weekly lessons, in person discussion taking students from specimen selection to final models.
 
 ## Acknowledgements
 This project is supported by the National Science Foundation.
@@ -106,8 +100,7 @@ This project is supported by the National Science Foundation.
 <br /><br /><br />
 <img src="fig/UC_Santa_Barbara_Wordmark_Navy_RGB.png" alt="" style="float:right;width:250px;margin:6px;">
 <img src="fig/Companyweblogosmall-blue.png" alt="" style="float:right;width:250px;margin:6px;">
-</p>
-</header>
+
 
 
 ## Disclaimer
