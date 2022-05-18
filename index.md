@@ -14,7 +14,7 @@ humantime: "11am - 1p Pacific"    # human-readable times for the workshop (e.g.,
 startdate: 2022-09-01      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2022-09-28        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Katja Seltmann", "Mark Smith"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: [ "you!" ]
+#helper: [ "you!" ]
 
 # ["helper one", "helper two"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["seltmann@ucsb.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
